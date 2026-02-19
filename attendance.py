@@ -1,4 +1,4 @@
-students = []
+students = ['alisaeed']
 
 def show_attendance():
     print("Class Attendance List:")
