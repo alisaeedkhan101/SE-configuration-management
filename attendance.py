@@ -1,4 +1,4 @@
-students = ['alisaeed']
+students = ['alisaeed', "Sikandar Hussain 405410", "Ameer Hamza 409662"]
 
 def show_attendance():
     print("Class Attendance List:")
