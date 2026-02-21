@@ -2,6 +2,7 @@ students = [
     'zara sahar',
     'eshmal rumman',
     'yashfa sikandar',
+    'Waseem Ghulam'
 ]
 
 def show_attendance():
