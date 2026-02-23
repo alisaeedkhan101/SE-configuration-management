@@ -1,8 +1,12 @@
+<<<<<<< WahaajNasir
+students = ['alisaeed', 'Wahaaj Nasir']
+=======
 students = [
     'zara sahar',
     'eshmal rumman',
     'yashfa sikandar',
 ]
+>>>>>>> main
 
 def show_attendance():
     print("Class Attendance List:")
